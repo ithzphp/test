@@ -1,3 +1,4 @@
 <?php
-  echo 'hello world';
+echo 'hello world';
+var_dump('12345');
 

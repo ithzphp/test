@@ -1,0 +1,3 @@
+[ 2017-04-14T16:15:36+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/private_nums?user_id=3&user_id_find=2&num1=0&length=2
+ERR: 非法操作:private_nums
+

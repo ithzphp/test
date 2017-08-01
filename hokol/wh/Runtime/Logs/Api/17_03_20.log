@@ -1,0 +1,21 @@
+[ 2017-03-20T10:06:13+08:00 ] 127.0.0.1 /index.php/Api/ApiNews/new_tui
+ERR: 无法加载控制器:ApiNews
+
+[ 2017-03-20T10:11:43+08:00 ] 127.0.0.1 /index.php/Api/ApiNews/new_tui
+ERR: 无法加载控制器:ApiNews
+
+[ 2017-03-20T10:12:28+08:00 ] 127.0.0.1 /index.php/Api/ApiArea/new_tui
+ERR: 无法加载控制器:ApiArea
+
+[ 2017-03-20T10:12:39+08:00 ] 127.0.0.1 /index.php/Api
+ERR: 无法加载控制器:Index
+
+[ 2017-03-20T10:13:52+08:00 ] 127.0.0.1 /index.php/Api/ApiNews
+ERR: 无法加载控制器:ApiNews
+
+[ 2017-03-20T10:19:03+08:00 ] 127.0.0.1 /index.php/Api/ApiNews
+ERR: 非法操作:index
+
+[ 2017-03-20T14:31:34+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/user_id=3&user_id_other=1&care=0
+ERR: 非法操作:user_id=3&user_id_other=1&care=0
+

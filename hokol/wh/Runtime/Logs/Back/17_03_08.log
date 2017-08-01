@@ -1,0 +1,21 @@
+[ 2017-03-08T16:32:23+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_one?dt_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt_zan_people_nickname' in 'field list'
+
+[ 2017-03-08T16:39:16+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_one?dt_id=2
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'dt_id' in where clause is ambiguous
+
+[ 2017-03-08T16:39:57+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_one?dt_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wh_dt_pics.dt_img' in 'field list'
+
+[ 2017-03-08T16:40:28+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_one?dt_id=2
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'dt_id' in where clause is ambiguous
+
+[ 2017-03-08T16:41:03+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_one?dt_id=2
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'dt_id' in where clause is ambiguous
+
+[ 2017-03-08T16:42:42+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_one?dt_id=2
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'dt_id' in where clause is ambiguous
+
+[ 2017-03-08T17:12:12+08:00 ] 127.0.0.1 /index.php/Back/Data/news/?num1=2&num2=5
+ERR: 非法操作:news
+

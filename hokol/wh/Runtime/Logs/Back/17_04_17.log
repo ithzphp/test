@@ -1,0 +1,6 @@
+[ 2017-04-17T15:30:07+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'user_id' at row 1
+
+[ 2017-04-17T21:31:41+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT UNSIGNED value is out of range in '(`whkj`.`wh_user`.`user_coin` - 100)'
+

@@ -1,0 +1,15 @@
+[ 2017-04-08T13:48:58+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_comment_employer?user_id=6&task_id=21&comment_user_id=1&attitude_score=4
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_task' doesn't exist
+
+[ 2017-04-08T13:49:34+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_comment_employer?user_id=6&task_id=21&comment_user_id=1&attitude_score=4
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_task' doesn't exist
+
+[ 2017-04-08T13:50:18+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_comment_employer?user_id=6&task_id=21&comment_user_id=1&attitude_score=4
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_task' doesn't exist
+
+[ 2017-04-08T14:07:23+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_comment_employer?user_id=6&task_id=21&comment_user_id=1&attitude_score=4
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$user_id' in 'where clause'
+
+[ 2017-04-08T16:59:36+08:00 ] 127.0.0.1 /index.php/Api/ApiArea?get_area
+ERR: 非法操作:index
+

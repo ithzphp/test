@@ -1,0 +1,42 @@
+[ 2017-03-03T14:47:33+08:00 ] 127.0.0.1 /index.php/Back/Iso/test/user_id=2
+ERR: 无法加载控制器:Iso
+
+[ 2017-03-03T14:48:07+08:00 ] 127.0.0.1 /index.php/Back/Ios/test/user_id=2
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_care' doesn't exist
+
+[ 2017-03-03T14:48:39+08:00 ] 127.0.0.1 /index.php/Back/Ios/test/user_id=2
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_dt' doesn't exist
+
+[ 2017-03-03T14:50:28+08:00 ] 127.0.0.1 /index.php/Back/Ios/test?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'care_peo' in 'field list'
+
+[ 2017-03-03T15:20:02+08:00 ] 127.0.0.1 /index.php/Back/Ios/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-03T15:23:19+08:00 ] 127.0.0.1 /index.php/Back/Ios/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$care )' at line 1
+
+[ 2017-03-03T15:25:03+08:00 ] 127.0.0.1 /index.php/Back/Ios/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-03T16:29:47+08:00 ] 127.0.0.1 /index.php/Back/Ios/test?user_id=2
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.dongtai' doesn't exist
+
+[ 2017-03-03T16:30:06+08:00 ] 127.0.0.1 /index.php/Back/Ios/test?user_id=2
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous
+
+[ 2017-03-03T16:32:57+08:00 ] 127.0.0.1 /index.php/Back/Ios/test?user_id=2
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in where clause is ambiguous
+
+[ 2017-03-03T16:35:19+08:00 ] 127.0.0.1 /index.php/Back/Ios/test?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt_pub_time' in 'field list'
+
+[ 2017-03-03T21:11:16+08:00 ] 127.0.0.1 /index.php/Back/Ios/test?user_id=2
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-03T22:08:26+08:00 ] 127.0.0.1 /index.php/Back/Ios/test?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list'
+
+[ 2017-03-03T22:13:21+08:00 ] 127.0.0.1 /index.php/Back/Ios/test?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user.user_id' in 'on clause'
+

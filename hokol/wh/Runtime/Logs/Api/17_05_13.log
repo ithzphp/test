@@ -1,0 +1,12 @@
+[ 2017-05-13T17:17:31+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=8&user_id_find=3
+ERR: SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT UNSIGNED value is out of range in '(`whkj`.`wh_user`.`user_see_card` - 1)'
+
+[ 2017-05-13T17:18:23+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=8&user_id_find=3
+ERR: SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT UNSIGNED value is out of range in '(`whkj`.`wh_user`.`user_see_card` - 1)'
+
+[ 2017-05-13T17:19:18+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=8&user_id_find=3
+ERR: SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT UNSIGNED value is out of range in '(`whkj`.`wh_user`.`user_see_card` - 1)'
+
+[ 2017-05-13T17:20:09+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=8&user_id_find=3
+ERR: SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT UNSIGNED value is out of range in '(`whkj`.`wh_user`.`user_see_card` - 1)'
+

@@ -1,0 +1,30 @@
+[ 2017-04-06T11:15:51+08:00 ] 127.0.0.1 /index.php/Api/APiDongtai/dongtai?user_id=2
+ERR: 无法加载控制器:APiDongtai
+
+[ 2017-04-06T11:26:08+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_see_card' in 'field list'
+
+[ 2017-04-06T11:26:55+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$user_id' in 'where clause'
+
+[ 2017-04-06T12:09:01+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$user_id' in 'where clause'
+
+[ 2017-04-06T12:09:47+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$user_id' in 'where clause'
+
+[ 2017-04-06T12:10:12+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$user_id' in 'where clause'
+
+[ 2017-04-06T12:12:11+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$user_id' in 'where clause'
+
+[ 2017-04-06T12:12:36+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=2
+ERR: SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT UNSIGNED value is out of range in '(`whkj`.`wh_user`.`user_call_card` - 1)'
+
+[ 2017-04-06T12:12:55+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=2
+ERR: SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT UNSIGNED value is out of range in '(`whkj`.`wh_user`.`user_call_card` - 1)'
+
+[ 2017-04-06T12:16:59+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=2
+ERR: SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT UNSIGNED value is out of range in '(`whkj`.`wh_user`.`user_call_card` - 1)'
+

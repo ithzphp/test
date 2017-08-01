@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        html{
+            color: #333;
+        }
+        body{
+            font-size: .32rem;
+            padding: 1em;
+			background:#F0F0F2;
+        }
+        h2{
+            font-size: .56rem;
+            color: #000;
+            text-align: center;
+        }
+        .sub-title{
+            font-size:.32rem ;
+            color: #999999;
+        }
+        .pub-time{
+            margin-left: 1.5em;
+        }
+        .main{
+            margin-top: .7em;
+            font-size: .32rem;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="title">
+        <h2>{$newsinfo.news_title}</h2>
+        <div class="sub-title">
+            <span class="address">{$newsinfo.news_source}</span>
+            <span class="pub-time">{$newsinfo.news_time}</span>
+        </div>
+        
+    </div>
+    <div class="main">
+        {$newsinfo.news_content}
+    </div>
+    <script>
+        var width=document.documentElement.clientWidth;
+        var html=document.documentElement;
+        html.style.fontSize=width/10+'px';
+    </script>
+</body>
+</html>

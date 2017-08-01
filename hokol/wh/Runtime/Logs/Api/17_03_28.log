@@ -1,0 +1,39 @@
+[ 2017-03-28T10:20:59+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published/user_id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2017-03-28T10:21:36+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published/user_id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2017-03-28T10:23:26+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published/user_id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>$user_id ) LIMIT 1' at line 1
+
+[ 2017-03-28T10:24:28+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published/user_id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>$user_id ) LIMIT 1' at line 1
+
+[ 2017-03-28T10:24:46+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published/user_id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>$user_id ) LIMIT 1' at line 1
+
+[ 2017-03-28T10:24:56+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published?user_id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>$user_id ) LIMIT 1' at line 1
+
+[ 2017-03-28T10:25:24+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published?user_id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>$user_id ) LIMIT 1' at line 1
+
+[ 2017-03-28T10:25:44+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published?user_id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=> $user_id ) LIMIT 1' at line 1
+
+[ 2017-03-28T10:26:15+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published?user_id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 1 ) LIMIT 1' at line 1
+
+[ 2017-03-28T10:27:59+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published?user_id=3
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'task_candadite' in 'field list'
+
+[ 2017-03-28T10:28:00+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published?user_id=1
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'task_candadite' in 'field list'
+
+[ 2017-03-28T10:28:01+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published?user_id=1
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'task_candadite' in 'field list'
+
+[ 2017-03-28T10:37:31+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_published?user_id=3&num1=0&length=3
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'task_candadite' in 'field list'
+

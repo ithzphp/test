@@ -1,0 +1,12 @@
+[ 2017-06-09T16:17:07+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: Think\Controller:http_request方法不存在！
+
+[ 2017-06-09T16:17:35+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: Think\Controller:https_request方法不存在！
+
+[ 2017-06-09T16:17:44+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: Think\Controller:http_request方法不存在！
+
+[ 2017-06-09T16:19:39+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: Think\Controller:file_get_contents方法不存在！
+

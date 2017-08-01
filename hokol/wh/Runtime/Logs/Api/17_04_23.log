@@ -1,0 +1,27 @@
+[ 2017-04-23T20:36:33+08:00 ] 127.0.0.1 /index.php/Api/ApiSetting/user_advice?user_id=8
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'advice_user_id' doesn't have a default value
+
+[ 2017-04-23T20:36:50+08:00 ] 127.0.0.1 /index.php/Api/ApiSetting/user_advice?user_id=8
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'advice_user_id' doesn't have a default value
+
+[ 2017-04-23T20:37:12+08:00 ] 127.0.0.1 /index.php/Api/ApiSetting/user_advice?user_id=8
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'advice_user_id' doesn't have a default value
+
+[ 2017-04-23T20:37:26+08:00 ] 127.0.0.1 /index.php/Api/ApiSetting/user_advice?user_id=8
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'advice_user_id' doesn't have a default value
+
+[ 2017-04-23T20:37:58+08:00 ] 127.0.0.1 /index.php/Api/ApiSetting/user_advice?user_id=8
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'advice_user_id' doesn't have a default value
+
+[ 2017-04-23T20:38:35+08:00 ] 127.0.0.1 /index.php/Api/ApiSetting/user_advice?user_id=8
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'advice_user_id' doesn't have a default value
+
+[ 2017-04-23T20:38:51+08:00 ] 127.0.0.1 /index.php/Api/ApiSetting/user_advice?user_id=8
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'advice_user_id' doesn't have a default value
+
+[ 2017-04-23T20:39:13+08:00 ] 127.0.0.1 /index.php/Api/ApiSetting/user_advice?user_id=8
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'advice_user_id' doesn't have a default value
+
+[ 2017-04-23T20:39:24+08:00 ] 127.0.0.1 /index.php/Api/ApiSetting/user_advice?user_id=8
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'advice_user_id' doesn't have a default value
+

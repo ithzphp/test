@@ -1,0 +1,3 @@
+Send GET https://device.jpush.cn/v3/devices/222, body:null, times:1
+Send GET https://device.jpush.cn/v3/devices/222, body:null, times:1
+Send GET https://device.jpush.cn/v3/devices/222, body:null, times:1

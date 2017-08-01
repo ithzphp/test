@@ -1,0 +1,166 @@
+[ 2017-03-25T17:15:46+08:00 ] 127.0.0.1 /index.php/Back/Admin
+ERR: 非法操作:index
+
+[ 2017-03-25T17:16:18+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=br75
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-25T17:17:00+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=pxw8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-25T17:17:11+08:00 ] 127.0.0.1 /index.php/Back/News/update.html
+ERR: 模板不存在:D:/a/wanghong/wh/Back/View/News/update.html
+
+[ 2017-03-25T17:22:30+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:22:30+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:22:30+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:22:30+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:04+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:04+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:06+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:06+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:06+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:06+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:06+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:06+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:06+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:08+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:08+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:08+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:08+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:10+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:10+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:10+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:10+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:12+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:12+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:12+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:12+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:12+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:13+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:13+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:13+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:13+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:13+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:13+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:13+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:24:13+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:24:13+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:40:44+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:40:44+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:40:49+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:40:49+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:40:49+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:40:49+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:40:49+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:40:49+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:40:49+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:40:51+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-25T17:40:51+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:40:51+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-25T17:40:51+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+

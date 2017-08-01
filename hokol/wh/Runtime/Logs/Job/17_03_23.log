@@ -1,0 +1,9 @@
+[ 2017-03-23T15:24:12+08:00 ] 127.0.0.1 /index.php/Job/job_info?jod_id=2
+ERR: 无法加载控制器:Job_info
+
+[ 2017-03-23T15:24:27+08:00 ] 127.0.0.1 /index.php/Job/job_info?jod_id=2
+ERR: 无法加载控制器:Job_info
+
+[ 2017-03-23T15:24:55+08:00 ] 127.0.0.1 /index.php/Job/job_info?jod_id=2
+ERR: 无法加载控制器:Job_info
+

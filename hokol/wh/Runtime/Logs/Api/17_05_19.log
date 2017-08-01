@@ -1,0 +1,6 @@
+[ 2017-05-19T10:21:42+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/mine_vip?user_id=1
+ERR: 非法操作:mine_vip
+
+[ 2017-05-19T13:30:04+08:00 ] 127.0.0.1 /index.php/Api/ApiLogin/login?user_tel=13923453219&user_pwd=wyw12345
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+

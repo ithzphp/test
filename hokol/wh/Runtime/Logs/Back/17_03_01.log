@@ -1,0 +1,34 @@
+[ 2017-03-01T08:42:35+08:00 ] 127.0.0.1 /index.php/Back/Api/login
+ERR: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+
+[ 2017-03-01T09:43:20+08:00 ] 127.0.0.1 /index.php/Back/Api/login
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: 不知道这样的主机。 
+
+[ 2017-03-01T09:44:20+08:00 ] 127.0.0.1 /index.php/Back/Api/login
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: 不知道这样的主机。 
+
+[ 2017-03-01T09:44:34+08:00 ] 127.0.0.1 /index.php/Back/Api/login
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: 不知道这样的主机。 
+
+[ 2017-03-01T09:45:37+08:00 ] 127.0.0.1 /index.php/Back/Api/login
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: 不知道这样的主机。 
+
+[ 2017-03-01T10:40:07+08:00 ] 192.168.0.112 /index.php/Back/Api/
+ERR: 闈炴硶鎿嶄綔:index
+
+[ 2017-03-01T10:43:58+08:00 ] 192.168.0.112 /index.php/Back/Api/loginuser_tel=13923453219&user_pwd=wyw12345
+ERR: 闈炴硶鎿嶄綔:loginuser_tel=13923453219&user_pwd=wyw12345
+
+[ 2017-03-01T10:44:00+08:00 ] 192.168.0.112 /index.php/Back/Api/loginuser_tel=13923453219&user_pwd=wyw12345
+ERR: 闈炴硶鎿嶄綔:loginuser_tel=13923453219&user_pwd=wyw12345
+
+[ 2017-03-01T10:44:11+08:00 ] 192.168.0.112 /index.php/Back/Api/login&user_tel=13923453219&user_pwd=wyw12345
+ERR: 闈炴硶鎿嶄綔:login&user_tel=13923453219&user_pwd=wyw12345
+
+[ 2017-03-01T10:44:15+08:00 ] 192.168.0.112 /index.php/Back/Api/loginuser_tel=13923453219&user_pwd=wyw12345
+ERR: 闈炴硶鎿嶄綔:loginuser_tel=13923453219&user_pwd=wyw12345
+
+[ 2017-03-01T14:44:37+08:00 ] 192.168.0.112 /index.php/Back/Api/test?user_tel=1
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_l_o_g__t_a_g' doesn't exist
+

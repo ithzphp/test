@@ -1,0 +1,12 @@
+[ 2017-04-24T09:05:06+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_' doesn't exist
+
+[ 2017-04-24T09:05:55+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-04-24T09:07:54+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'task_employe' in 'field list'
+
+[ 2017-04-24T09:08:08+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+

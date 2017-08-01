@@ -1,0 +1,9 @@
+[ 2017-05-31T15:27:55+08:00 ] 127.0.0.1 /index.php/Api/ApiLogin/push
+ERR: app_key format is error
+
+[ 2017-05-31T15:28:46+08:00 ] 127.0.0.1 /index.php/Api/ApiLogin/push
+ERR: The registration_id does not belong to this appkey!
+
+[ 2017-05-31T15:29:29+08:00 ] 127.0.0.1 /index.php/Api/ApiLogin/push
+ERR: The registration_id does not belong to this appkey!
+

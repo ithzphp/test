@@ -1,0 +1,6 @@
+[ 2017-04-22T10:20:07+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai?dt_id=2
+ERR: 非法操作:index
+
+[ 2017-04-22T15:41:27+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/user_fans?user_id=2
+ERR: 非法操作:user_fans
+

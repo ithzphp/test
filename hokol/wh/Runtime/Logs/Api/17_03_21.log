@@ -1,0 +1,48 @@
+[ 2017-03-21T14:48:50+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'dt_pub_time' doesn't have a default value
+
+[ 2017-03-21T14:50:54+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'dt_pub_time' doesn't have a default value
+
+[ 2017-03-21T14:51:13+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'dt_pub_time' doesn't have a default value
+
+[ 2017-03-21T15:05:43+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'dt_pub_time' doesn't have a default value
+
+[ 2017-03-21T15:06:46+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'dt_pub_time' doesn't have a default value
+
+[ 2017-03-21T15:07:00+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'dt_pub_time' doesn't have a default value
+
+[ 2017-03-21T15:09:08+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'dt_pub_time' doesn't have a default value
+
+[ 2017-03-21T15:09:34+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'dt_pub_time' doesn't have a default value
+
+[ 2017-03-21T15:17:51+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_api_dongtai' doesn't exist
+
+[ 2017-03-21T15:23:25+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'dt_pub_time' doesn't have a default value
+
+[ 2017-03-21T16:08:49+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'dt_small_img' cannot be null
+
+[ 2017-03-21T16:11:52+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'dt_small_img' cannot be null
+
+[ 2017-03-21T17:31:52+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: 不存在的图像文件
+
+[ 2017-03-21T17:32:40+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: 不存在的图像文件
+
+[ 2017-03-21T18:07:50+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: 不存在的图像文件
+
+[ 2017-03-21T18:33:58+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_pub
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'dt_img' cannot be null
+

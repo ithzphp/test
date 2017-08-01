@@ -1,0 +1,9 @@
+[ 2017-05-23T09:23:36+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_tag=1&num1=0&length=3&user_province=0&user_city[]=%E6%9D%AD%E5%B7%9E%E5%B8%82&user_city[]=%E5%8F%B0%E5%B7%9E%E5%B8%82
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '杭州市' in 'where clause'
+
+[ 2017-05-23T09:24:25+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_tag=1&num1=0&length=3&user_province=0&user_city[]=%27%E6%9D%AD%E5%B7%9E%E5%B8%82%27&user_city[]=%27%E5%8F%B0%E5%B7%9E%E5%B8%82%27
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'whkj.b.dt_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+
+[ 2017-05-23T15:11:08+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_province=%E6%B5%99%E6%B1%9F%E7%9C%81&task_city[]&num1=0&length=3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'whkj.b.dt_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+

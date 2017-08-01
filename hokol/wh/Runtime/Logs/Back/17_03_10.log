@@ -1,0 +1,6 @@
+[ 2017-03-10T13:25:42+08:00 ] 127.0.0.1 /index.php/Back/ApiDongtai/dt_nums?user_id=2
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'dt_id' in field list is ambiguous
+
+[ 2017-03-10T15:47:36+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_collect?user_id=3&task_id=1&collect=1
+ERR: Think\Model:setIec方法不存在！
+

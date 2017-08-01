@@ -1,0 +1,3 @@
+[ 2017-05-17T15:11:24+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_task_trace' doesn't exist
+

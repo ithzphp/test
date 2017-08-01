@@ -1,0 +1,9 @@
+[ 2017-06-03T10:25:45+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/get_credit?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+
+[ 2017-06-03T14:13:22+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/get_credit?user_id=2
+ERR: 非法操作:get_credit
+
+[ 2017-06-03T14:18:58+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/user_credit?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'action_score' in 'field list'
+

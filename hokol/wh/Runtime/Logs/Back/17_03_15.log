@@ -1,0 +1,54 @@
+[ 2017-03-15T10:28:28+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/user_collect_task?user_id=2&num1=0&num2=15
+ERR: 非法操作:user_collect_task
+
+[ 2017-03-15T11:29:52+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/uaer_task_pub
+ERR: 非法操作:uaer_task_pub
+
+[ 2017-03-15T11:30:01+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/user_task_pub
+ERR: 非法操作:user_task_pub
+
+[ 2017-03-15T11:30:41+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_user_id' doesn't have a default value
+
+[ 2017-03-15T11:31:36+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_user_id' doesn't have a default value
+
+[ 2017-03-15T11:31:53+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_user_id' doesn't have a default value
+
+[ 2017-03-15T11:32:08+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_user_id' doesn't have a default value
+
+[ 2017-03-15T11:32:25+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_user_id' doesn't have a default value
+
+[ 2017-03-15T11:32:51+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_user_id' doesn't have a default value
+
+[ 2017-03-15T12:42:09+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_content' doesn't have a default value
+
+[ 2017-03-15T12:42:41+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_content' doesn't have a default value
+
+[ 2017-03-15T12:43:09+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_user_id' doesn't have a default value
+
+[ 2017-03-15T13:03:50+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_user_id' doesn't have a default value
+
+[ 2017-03-15T13:04:18+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_user_id' doesn't have a default value
+
+[ 2017-03-15T13:06:05+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_user_id' doesn't have a default value
+
+[ 2017-03-15T13:42:10+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'task_type' cannot be null
+
+[ 2017-03-15T13:44:21+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'task_type' cannot be null
+
+[ 2017-03-15T13:54:00+08:00 ] 127.0.0.1 /index.php/Back/ApiTask/task_pub
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'task_user_id' doesn't have a default value
+

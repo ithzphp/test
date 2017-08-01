@@ -1,0 +1,30 @@
+[ 2017-03-16T13:42:29+08:00 ] 127.0.0.1 /index.php/Back/ApiSetting/reset_user_info?user_id=6&user_sex=%E4%BF%9D%E5%AF%86
+ERR: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'user_sex' at row 1
+
+[ 2017-03-16T14:05:28+08:00 ] 127.0.0.1 /index.php/Back/ApiSetting/reset_user_info?user_sex=%E5%A5%B3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-16T14:07:46+08:00 ] 127.0.0.1 /index.php/Back/ApiSetting/reset_user_info?user_sex=%E5%A5%B3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-16T14:08:07+08:00 ] 127.0.0.1 /index.php/Back/ApiSetting/reset_user_info?user_sex=%E5%A5%B3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-16T14:09:31+08:00 ] 127.0.0.1 /index.php/Back/ApiSetting/reset_user_info?user_sex=%E5%A5%B3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-16T14:10:12+08:00 ] 127.0.0.1 /index.php/Back/ApiSetting/reset_user_info?user_sex=%E5%A5%B3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-16T14:11:29+08:00 ] 127.0.0.1 /index.php/Back/ApiSetting/reset_user_info?user_sex=%E5%A5%B3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-16T14:12:16+08:00 ] 127.0.0.1 /index.php/Back/ApiSetting/reset_user_info?user_sex=%E5%A5%B3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-16T20:26:42+08:00 ] 127.0.0.1 /index.php/Back/Data/test
+ERR: Think\Controller:getall方法不存在！
+
+[ 2017-03-16T21:37:27+08:00 ] 127.0.0.1 /index.php/Back/ApiArea/test
+ERR: 非法操作:test
+

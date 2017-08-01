@@ -1,0 +1,9 @@
+[ 2017-04-27T14:47:59+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/prtvate_nums?user_id=2&user_id_find=3
+ERR: 非法操作:prtvate_nums
+
+[ 2017-04-27T14:48:11+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/private_nums?user_id=2&user_id_find=3
+ERR: 非法操作:private_nums
+
+[ 2017-04-27T14:48:52+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_private_nums?user_id=2&user_id_find=3
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'pri_id' in field list is ambiguous
+

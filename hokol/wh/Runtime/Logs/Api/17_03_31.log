@@ -1,0 +1,9 @@
+[ 2017-03-31T17:39:30+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/post_task?user_id=6&num1=0&length=3
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'task_id' in field list is ambiguous
+
+[ 2017-03-31T17:40:18+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/post_task?user_id=6&num1=0&length=3
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'task_id' in where clause is ambiguous
+
+[ 2017-03-31T17:40:36+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/post_task?user_id=6&num1=0&length=3
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'task_id' in where clause is ambiguous
+

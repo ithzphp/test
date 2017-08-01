@@ -1,0 +1,15 @@
+[ 2017-05-27T09:03:18+08:00 ] 127.0.0.1 /index.php/Api/ApiLogin?push
+ERR: 非法操作:index
+
+[ 2017-05-27T09:05:00+08:00 ] 127.0.0.1 /index.php/Api/ApiLogin/login
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2017-05-27T11:57:45+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/get1http://www.wh.com/index.php/Api/ApiMine/get1
+ERR: 非法操作:get1http:
+
+[ 2017-05-27T11:57:58+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/get1http://www.wh.com/index.php/Api/ApiMine/get1
+ERR: 非法操作:get1http:
+
+[ 2017-05-27T11:57:59+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/get1http://www.wh.com/index.php/Api/ApiMine/get1
+ERR: 非法操作:get1http:
+

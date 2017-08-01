@@ -1,0 +1,6 @@
+[ 2017-03-02T15:33:03+08:00 ] 127.0.0.1 /index.php/Back/Api/new?news_id=2
+ERR: 非法操作:new
+
+[ 2017-03-02T17:43:50+08:00 ] 127.0.0.1 /index.php/Back/Api/new_tui?
+ERR: Think\Model:oreder方法不存在！
+

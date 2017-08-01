@@ -1,0 +1,69 @@
+[ 2017-05-14T18:00:26+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:01:34+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:01:35+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:01:37+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:01:38+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:01:38+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:01:38+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:01:39+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:01:39+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:01:39+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:02:27+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:03:12+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:03:13+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:03:13+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:03:13+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:03:13+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:03:14+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:03:14+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:04:13+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:04:14+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:06:05+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:06:05+08:00 ] ::1 /wanghong/wh/index.php/Api/ApiNews/new_tui
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-14T18:12:42+08:00 ] 127.0.0.1 /index.php/Api/ApiNew/new_tui
+ERR: 无法加载控制器:ApiNew
+

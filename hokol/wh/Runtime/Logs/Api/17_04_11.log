@@ -1,0 +1,21 @@
+[ 2017-04-11T09:44:09+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/present_coin?user_id=2&recive_user_id=1&coin_num=3
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null
+
+[ 2017-04-11T09:44:51+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/present_coin?user_id=2&recive_user_id=1&coin_num=3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-04-11T09:45:39+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/present_coin?user_id=2&recive_user_id=1&coin_num=3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-04-11T09:45:58+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/present_coin?user_id=2&recive_user_id=1&coin_num=3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-04-11T10:15:37+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/present_coin?user_id=1&recive_user_id=2&coin_num=3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-04-11T14:46:57+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/user_collect_task?user_id=2&num1=0&length=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2017-04-11T14:51:33+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/mine_mess?user_id=2
+ERR: 非法操作:mine_mess
+

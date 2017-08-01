@@ -1,0 +1,36 @@
+[ 2017-02-28T11:26:58+08:00 ] 192.168.1.121 /index.php/Back/Api/register?user_id=1
+ERR: éæ³•æ“ä½œ:register
+
+[ 2017-02-28T11:28:57+08:00 ] 192.168.1.121 /index.php/Back/Api/search%EF%BC%9Fuser_id=1
+ERR: éæ³•æ“ä½œ:searchï¼Ÿuser_id=1
+
+[ 2017-02-28T15:29:54+08:00 ] 192.168.1.100 /index.php/Back/Android/login?user_tel=130&user_pwd=123
+ERR: æ— æ³•åŠ è½½æ§åˆ¶å™¨:Android
+
+[ 2017-02-28T17:18:35+08:00 ] 192.168.1.115 /index.php/Back/Api/
+ERR: éæ³•æ“ä½œ:index
+
+[ 2017-02-28T17:19:47+08:00 ] 192.168.1.115 /index.php/Back/Api/
+ERR: éæ³•æ“ä½œ:index
+
+[ 2017-02-28T17:22:38+08:00 ] 192.168.1.100 /index.php/Back/Api/
+ERR: éæ³•æ“ä½œ:index
+
+[ 2017-02-28T17:28:23+08:00 ] 192.168.1.100 /index.php/Back/Api/?=user_tel%3D13923453219%26user_pwd%3Dwyw12345
+ERR: éæ³•æ“ä½œ:index
+
+[ 2017-02-28T22:31:23+08:00 ] 127.0.0.1 /index.php/Back/Api/login
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'hzwh'@'localhost' (using password: YES)
+
+[ 2017-02-28T22:57:56+08:00 ] 127.0.0.1 /index.php/Back/Api/login
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+
+
+[ 2017-02-28T22:58:21+08:00 ] 127.0.0.1 /index.php/Back/Api/login
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+
+
+[ 2017-02-28T23:00:08+08:00 ] 127.0.0.1 /index.php/Back/Android/login
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+
+

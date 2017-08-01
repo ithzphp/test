@@ -1,0 +1,9 @@
+[ 2017-05-22T08:56:26+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/recharge_once_call?user_id=2
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_user_member_recod' doesn't exist
+
+[ 2017-05-22T08:58:18+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/recharge_once_call?user_id=2
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'call_card_numm' doesn't have a default value
+
+[ 2017-05-22T09:14:18+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/recharge_once_space?user_id=1
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_user_member_recod' doesn't exist
+

@@ -1,0 +1,206 @@
+[ 2017-03-06T10:35:18+08:00 ] 127.0.0.1 /index.php/Back/Ios/test?user_id=2&num=1&num2=3
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'zan_people' in 'field list'
+
+[ 2017-03-06T10:37:02+08:00 ] 127.0.0.1 /index.php/Back/Ios/test?user_id=2&num=1&num2=3
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'zan_people' in 'field list'
+
+[ 2017-03-06T10:58:50+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_zan?dt_id=3&zan=0
+ERR: 非法操作:dt_zan
+
+[ 2017-03-06T13:11:09+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_zan?dt_id=5&zan=0&user_id=2
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-06T13:29:29+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_zan?dt_id=5&zan=1&user_id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-06T13:30:24+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_zan?dt_id=5&zan=1&user_id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-06T18:38:20+08:00 ] 127.0.0.1 /index.php/Back/Ios/task?task_type=%E7%BD%91%E7%BA%A2
+ERR: 非法操作:task
+
+[ 2017-03-06T18:38:29+08:00 ] 127.0.0.1 /index.php/Back/Ios/task?task_type=%E7%BD%91%E7%BA%A2
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_task' doesn't exist
+
+[ 2017-03-06T18:39:52+08:00 ] 127.0.0.1 /index.php/Back/Ios/task?task_type=%E7%BD%91%E7%BA%A2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '' in 'field list'
+
+[ 2017-03-06T18:40:39+08:00 ] 127.0.0.1 /index.php/Back/Ios/task?task_type=%E7%BD%91%E7%BA%A2&%E6%AD%8C%E6%89%8B
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '' in 'field list'
+
+[ 2017-03-06T18:41:26+08:00 ] 127.0.0.1 /index.php/Back/Ios/task?task_type=%E7%BD%91%E7%BA%A2&%E6%AD%8C%E6%89%8B
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '' in 'field list'
+
+[ 2017-03-06T18:44:47+08:00 ] 127.0.0.1 /index.php/Back/Ios/task?task_type=%E7%BD%91%E7%BA%A2&%E6%AD%8C%E6%89%8B
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '' in 'field list'
+
+[ 2017-03-06T21:14:19+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=viqk
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T21:15:04+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=Byux
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-06T21:15:16+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=janv
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T21:15:20+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=jahv
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T21:34:37+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=rrut
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T21:36:47+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=gfds
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T21:37:29+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=rrut
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T21:37:44+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=rrut
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T21:38:07+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=2uuv
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T21:38:23+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=8r46
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T21:38:43+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=75zx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T21:38:45+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=75zh
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T21:38:47+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=75zx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-06T22:34:17+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-06T22:34:17+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:17+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:17+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-06T22:34:17+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:19+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-06T22:34:19+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-06T22:34:19+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:19+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:19+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:19+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:19+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-06T22:34:19+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:19+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-06T22:34:20+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:20+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-06T22:34:20+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-03-06T22:34:20+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:22+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:22+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-03-06T22:34:22+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-03-06T22:34:22+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+

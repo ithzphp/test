@@ -1,0 +1,21 @@
+[ 2017-06-09T08:47:39+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/test
+ERR: 非法操作:test
+
+[ 2017-06-09T14:23:42+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_province=%E5%8C%97%E4%BA%AC%E5%B8%82&num=0&lenght=3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 5
+
+[ 2017-06-09T14:24:02+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_province=%E5%8C%97%E4%BA%AC%E5%B8%82&num=0&lenght=3&user_tag=3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 5
+
+[ 2017-06-09T14:24:44+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_province=%E5%8C%97%E4%BA%AC%E5%B8%82&num1=0&lenght=3&user_tag=3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 5
+
+[ 2017-06-09T14:24:52+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_province=%E5%8C%97%E4%BA%AC%E5%B8%82&num1=0&lenght=3&user_tag=3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 5
+
+[ 2017-06-09T14:24:53+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_province=%E5%8C%97%E4%BA%AC%E5%B8%82&num1=0&lenght=3&user_tag=3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 5
+
+[ 2017-06-09T14:25:33+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_province=%E5%8C%97%E4%BA%AC%E5%B8%82&num1=0&length=3&user_tag=3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'whkj.b.dt_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+

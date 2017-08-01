@@ -1,0 +1,27 @@
+[ 2017-03-29T10:36:37+08:00 ] 127.0.0.1 /index.php/Api/ApiTask/task_join?user_id=6&task_id=20
+ERR: Think\Model:filed方法不存在！
+
+[ 2017-03-29T15:29:06+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/post_task?user_id=6&switch=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2017-03-29T15:29:40+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/post_task?user_id=6&switch=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2017-03-29T15:30:33+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/post_task?user_id=6&switch=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2017-03-29T15:31:21+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/post_task?user_id=6&switch=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2017-03-29T15:31:37+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/post_task?user_id=6&switch=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2017-03-29T15:31:51+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/post_task?user_id=6&switch=0
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2017-03-29T15:32:19+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/post_task?user_id=6&switch=0
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2017-03-29T15:34:22+08:00 ] 127.0.0.1 /index.php/Api/ApiMine/post_task?user_id=6&switch=0
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+

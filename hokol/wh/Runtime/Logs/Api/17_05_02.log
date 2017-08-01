@@ -1,0 +1,15 @@
+[ 2017-05-02T16:11:56+08:00 ] 127.0.0.1 /index.php/Api/ApiLogin/get_regist_code?user_tel=13053285282
+ERR: 非法操作:get_regist_code
+
+[ 2017-05-02T16:21:43+08:00 ] 127.0.0.1 /index.php/Api/ApiLogin/get_regist_checkcode?t=283718787
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_tel' cannot be null
+
+[ 2017-05-02T16:25:43+08:00 ] 127.0.0.1 /index.php/Api/ApiLogin/get_regist_checkcode?t=283718787
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_tel' cannot be null
+
+[ 2017-05-02T16:28:16+08:00 ] 127.0.0.1 /index.php/Api/ApiLogin/get_regist_checkcode?t=283718787
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_tel' cannot be null
+
+[ 2017-05-02T16:29:39+08:00 ] 127.0.0.1 /index.php/Api/ApiLogin/get_regist_checkcode?t=283718787
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_tel' cannot be null
+

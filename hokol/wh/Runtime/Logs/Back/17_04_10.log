@@ -1,0 +1,188 @@
+[ 2017-04-10T16:29:32+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=btkb
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-10T16:29:43+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=xhcj
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-10T16:29:50+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=btkb
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-10T16:30:37+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=uypk
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-10T16:30:46+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=juyt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-10T16:30:53+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=uypk
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-10T16:33:19+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=uypk
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-10T16:33:36+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=7iid
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-10T16:34:52+08:00 ] 127.0.0.1 /index.php/Back/News/update.html
+ERR: 模板不存在:D:/a/wanghong/wh/Back/View/News/update.html
+
+[ 2017-04-10T16:35:40+08:00 ] 127.0.0.1 /index.php/Back/News/update.html
+ERR: 模板不存在:D:/a/wanghong/wh/Back/View/News/update.html
+
+[ 2017-04-10T16:47:45+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-04-10T16:47:45+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-04-10T16:47:45+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-04-10T16:47:45+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-04-10T16:47:45+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-04-10T16:49:30+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-04-10T16:49:30+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-04-10T16:49:35+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-04-10T16:49:35+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-04-10T16:50:36+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-04-10T16:50:36+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-04-10T16:50:36+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-04-10T16:50:36+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-04-10T16:50:36+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-04-10T17:43:40+08:00 ] 127.0.0.1 /index.php/Back/Index/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-04-10T17:43:40+08:00 ] 127.0.0.1 /index.php/Back/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-04-10T17:43:40+08:00 ] 127.0.0.1 /index.php/Back/Index/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-04-10T17:43:40+08:00 ] 127.0.0.1 /index.php/Back/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-04-10T18:08:38+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=uxjt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-10T18:09:42+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=yn52
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-10T18:10:24+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=jt4m
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-10T18:10:45+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=efvy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-10T18:12:09+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=hhgh
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-10T18:12:15+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=gvta
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-10T18:12:47+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=hmeh
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-10T18:13:55+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=kuqm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

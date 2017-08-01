@@ -1,0 +1,12 @@
+[ 2017-03-23T10:06:13+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_tag=%E7%BD%91%E7%BA%A2&user_sex=%E4%B8%8D%E9%99%90&user_adv=%E4%BA%BA%E6%B0%94
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1
+
+[ 2017-03-23T10:07:48+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_tag=%E7%BD%91%E7%BA%A2&user_sex=%E7%94%B7&user_adv=%E4%BA%BA%E6%B0%94
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1
+
+[ 2017-03-23T10:08:28+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_tag=%E7%BD%91%E7%BA%A2&user_sex=%E7%94%B7&user_adv=%E4%BA%BA%E6%B0%94
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1
+
+[ 2017-03-23T10:28:55+08:00 ] 127.0.0.1 /index.php/Api/ApiIndex/index?user_tag=%E7%BD%91%E7%BA%A2&user_sex=0&user_adv=1&num1=3&num2=3
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '网红' in 'where clause'
+

@@ -1,0 +1,42 @@
+[ 2017-04-18T11:11:17+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: Think\Controller:query方法不存在！
+
+[ 2017-04-18T11:12:03+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: Think\Controller:query方法不存在！
+
+[ 2017-04-18T11:12:23+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_task_trace' doesn't exist
+
+[ 2017-04-18T11:15:10+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'employe_time' in 'field list'
+
+[ 2017-04-18T11:17:18+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[HY000]: General error: 1328 Incorrect number of FETCH variables
+
+[ 2017-04-18T11:17:59+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'employe_time' in 'field list'
+
+[ 2017-04-18T11:18:41+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[HY000]: General error
+
+[ 2017-04-18T11:21:58+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[HY000]: General error
+
+[ 2017-04-18T11:25:34+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_user_task_record' doesn't exist
+
+[ 2017-04-18T11:26:07+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_user_task_record' doesn't exist
+
+[ 2017-04-18T12:10:43+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whkj.wh_user_task_record' doesn't exist
+
+[ 2017-04-18T12:12:03+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[HY000]: General error
+
+[ 2017-04-18T12:58:00+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$time' in 'field list'
+
+[ 2017-04-18T12:58:35+08:00 ] 127.0.0.1 /index.php/Back/Data/test1
+ERR: SQLSTATE[HY000]: General error
+

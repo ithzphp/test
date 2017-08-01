@@ -1,0 +1,33 @@
+[ 2017-03-09T10:47:34+08:00 ] 127.0.0.1 /index.php/Back/Ios/task_det?task_id=2
+ERR: 非法操作:task_det
+
+[ 2017-03-09T11:25:52+08:00 ] 127.0.0.1 /index.php/Back/Api/user_info?user_id=2
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '' in 'field list'
+
+[ 2017-03-09T13:06:53+08:00 ] 127.0.0.1 /index.php/Back/Api/dt_one?dt_id=1
+ERR: 非法操作:dt_one
+
+[ 2017-03-09T13:09:00+08:00 ] 127.0.0.1 /index.php/Back/Api/dt_1?dt_id=1
+ERR: 非法操作:dt_1
+
+[ 2017-03-09T13:10:01+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_one?dt_id=1
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wh_dt_pics.dt_id' in 'where clause'
+
+[ 2017-03-09T13:19:34+08:00 ] 127.0.0.1 /index.php/Back/Ios/dt_one?dt_id=1
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt_zan_peo' in 'field list'
+
+[ 2017-03-09T13:48:23+08:00 ] 127.0.0.1 /index.php/Back/Api_dongtai/dt_one?dt_id=1
+ERR: 无法加载控制器:Api_dongtai
+
+[ 2017-03-09T13:48:57+08:00 ] 127.0.0.1 /index.php/Back/Api_dongtai/dt_one?dt_id=1
+ERR: 无法加载控制器:Api_dongtai
+
+[ 2017-03-09T13:49:11+08:00 ] 127.0.0.1 /index.php/Back/Apidongtai/dt_one?dt_id=1
+ERR: 无法加载控制器:Apidongtai
+
+[ 2017-03-09T13:49:40+08:00 ] 127.0.0.1 /index.php/Back/ApiDongtai/dt_one?dt_id=1
+ERR: 无法加载控制器:ApiDongtai
+
+[ 2017-03-09T13:52:30+08:00 ] 127.0.0.1 /index.php/Back/Api-Task/task_det?task_id=1
+ERR: 无法加载控制器:Api-Task
+

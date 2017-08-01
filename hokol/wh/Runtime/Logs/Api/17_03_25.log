@@ -1,0 +1,12 @@
+[ 2017-03-25T13:42:54+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_one?dt_id=2
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'dt_id' in where clause is ambiguous
+
+[ 2017-03-25T13:43:47+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_one?dt_id=2
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'dt_id' in where clause is ambiguous
+
+[ 2017-03-25T13:44:08+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_one?dt_id=2
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'dt_id' in where clause is ambiguous
+
+[ 2017-03-25T13:46:51+08:00 ] 127.0.0.1 /index.php/Api/ApiDongtai/dt_one?dt_id=2
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'dt_id' in where clause is ambiguous
+
